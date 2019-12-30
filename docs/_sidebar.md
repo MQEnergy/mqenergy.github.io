@@ -6,10 +6,10 @@
   * [版权信息](zh-cn/license.md)
 
 * 快速入门
-  * [安装](zh-cn/quick-start/install.md)
+  * [下载与安装](zh-cn/quick-start/download-install.md)
   * [快速开始](zh-cn/quick-start/overview.md)
+  * [扩展功能](zh-cn/quick-start/extends-func.md)
   * [常见问题](zh-cn/quick-start/questions.md)
-
 * 系统开发
   * [目录结构](zh-cn/sys-development/directory-structure.md)
   * [开发规范](zh-cn/sys-development/development-norm.md)
@@ -18,6 +18,6 @@
   * [单元测试](zh-cn/sys-development/unit-test.md)
   
 * 模板开发
-
+  *
 * 接口开发
 
